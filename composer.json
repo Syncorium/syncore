@@ -1,0 +1,20 @@
+{
+    "name": "syncore/syncore",
+    "description": "A Php Framework package",
+    "keywords": [ "framework", "modern", "php"],
+    "license": "MIT",
+    "authors": [
+        {  "name": "Bartosz Zwski",     "email": "duwless@outlook.com"  }
+    ],
+
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {},
+
+    "require-dev": {},
+    "autoload-dev": {},
+
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}

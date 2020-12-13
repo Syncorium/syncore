@@ -1,0 +1,14 @@
+* text=auto
+*.css           linguist-vendored
+*.scss          linguist-vendored
+*.sh            eol=lf
+*.php*          diff=php linguist-language=PHP
+*.js            linguist-vendored
+
+.github         export-ignore
+.gitignore      export-ignore
+.gitattributes  export-ignore
+.travis.yml     export-ignore
+tests/          export-ignore
+
+CHANGELOG.md    export-ignore
